@@ -1,0 +1,12 @@
+C:\rt\Test\CyP\TRNEW\WebApiTestBL\bin\Debug\net8.0\WebApiTestBL.deps.json
+C:\rt\Test\CyP\TRNEW\WebApiTestBL\bin\Debug\net8.0\WebApiTestBL.dll
+C:\rt\Test\CyP\TRNEW\WebApiTestBL\bin\Debug\net8.0\WebApiTestBL.pdb
+C:\rt\Test\CyP\TRNEW\WebApiTestBL\obj\Debug\net8.0\WebApiTestBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\rt\Test\CyP\TRNEW\WebApiTestBL\obj\Debug\net8.0\WebApiTestBL.AssemblyInfoInputs.cache
+C:\rt\Test\CyP\TRNEW\WebApiTestBL\obj\Debug\net8.0\WebApiTestBL.AssemblyInfo.cs
+C:\rt\Test\CyP\TRNEW\WebApiTestBL\obj\Debug\net8.0\WebApiTestBL.csproj.CoreCompileInputs.cache
+C:\rt\Test\CyP\TRNEW\WebApiTestBL\obj\Debug\net8.0\WebApiTestBL.dll
+C:\rt\Test\CyP\TRNEW\WebApiTestBL\obj\Debug\net8.0\refint\WebApiTestBL.dll
+C:\rt\Test\CyP\TRNEW\WebApiTestBL\obj\Debug\net8.0\WebApiTestBL.pdb
+C:\rt\Test\CyP\TRNEW\WebApiTestBL\obj\Debug\net8.0\ref\WebApiTestBL.dll
+C:\rt\Test\CyP\TRNEW\WebApiTestBL\obj\Debug\net8.0\WebApiTestBL.csproj.AssemblyReference.cache
